@@ -51,3 +51,9 @@ Most likely you are getting a message
 > husky - commit-msg script failed (code 1)
 
 To fix it you either need to follow conventional commit messages rules, or remove `.husky/pre-commit` file which enables the aforementioned rule.
+
+## References
+
+[Deploy React App to AWS Using Terraform](https://blog.everestek.com/deploy-react-app-to-aws-s3-using-terraform/)
+[react aws github](https://github.com/vik-y/react-aws-terraform/blob/main/terraform/s3.tf)
+[Youtube ](https://www.youtube.com/watch?v=cGPyH-PO8vg)
