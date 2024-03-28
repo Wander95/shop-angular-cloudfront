@@ -14,6 +14,10 @@
   <mat-card-content>
     <p>{{ product().price | number: "1.2-2" | currency }}</p>
   </mat-card-content>
+  
+  <mat-card-content>
+    <p>{{ product().description }}</p>
+  </mat-card-content>
 
   <mat-card-actions>
     <!-- Add to cart btn -->
